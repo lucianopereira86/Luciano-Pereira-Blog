@@ -20,7 +20,7 @@ keywords:
 autoThumbnailImage: true
 thumbnailImagePosition: top
 thumbnailImage: /images/uploads/titulo.jpg
-coverImage: /images/uploads/titulo.jpg
+coverImage: ''
 ---
 The full example can be downloaded in this GitHub repository: [NetCore3-Swagger](https://github.com/lucianopereira86/NetCore3-Swagger).
 
