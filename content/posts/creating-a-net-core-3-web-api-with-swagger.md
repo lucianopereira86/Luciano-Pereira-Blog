@@ -22,9 +22,7 @@ thumbnailImagePosition: top
 thumbnailImage: /images/uploads/titulo.jpg
 coverImage: ''
 ---
-# NetCore3-Swagger
-
-Creating a .Net Core 3 web API with Swagger. This example in complete inside the [api folder](https://github.com/lucianopereira86/NetCore3-Swagger/tree/dev/api).
+The full example can be downloaded in this GitHub repository: [NetCore3-Swagger](https://github.com/lucianopereira86/NetCore3-Swagger).
 
 ## Technologies
 
