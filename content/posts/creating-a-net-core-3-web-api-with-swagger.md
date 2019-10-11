@@ -22,8 +22,6 @@ thumbnailImagePosition: top
 thumbnailImage: /images/uploads/titulo.jpg
 coverImage: ''
 ---
-![titulo](/images/uploads/titulo.jpg)
-
 The full example can be downloaded in this GitHub repository: [NetCore3-Swagger](https://github.com/lucianopereira86/NetCore3-Swagger).
 
 ## Technologies
