@@ -2,7 +2,7 @@
 title: Creating a .Net Core 3 web API with Swagger
 date: '2019-10-10T22:07:19-03:00'
 categories:
-  - coding
+  - Net Core
 tags:
   - Net Core
   - Swagger
