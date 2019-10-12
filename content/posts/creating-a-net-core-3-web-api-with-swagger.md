@@ -2,19 +2,16 @@
 title: Creating a .Net Core 3 web API with Swagger
 date: '2019-10-10T22:07:19-03:00'
 categories:
-  - .Net Core
-tags:
-  - programming
   - coding
-  - development
-  - .Net Core
+tags:
+  - Net Core
   - Swagger
   - Visual Studio 2019
 keywords:
   - programming
   - coding
   - development
-  - .Net Core
+  - Net Core
   - Swagger
   - Visual Studio 2019
 autoThumbnailImage: true
