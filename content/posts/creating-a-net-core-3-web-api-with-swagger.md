@@ -1,26 +1,22 @@
 ---
-title: Creating a .Net Core 3 web API with Swagger
-date: '2019-10-10T22:07:19-03:00'
+title: .Net Core 3  Web API - Part 1 - Swagger
+date: '2019-10-12T23:30:19-03:00'
 categories:
   - Net Core
 tags:
   - Net Core
-  - Swagger
-  - Visual Studio 2019
 keywords:
-  - programming
-  - coding
-  - development
   - Net Core
   - Swagger
   - Visual Studio 2019
 autoThumbnailImage: true
 thumbnailImagePosition: top
 thumbnailImage: /images/uploads/titulo.jpg
-coverImage: ''
+coverImage: /images/uploads/titulo.jpg
 ---
 ![titulo](/images/uploads/titulo.jpg)
 
+In this series, I will explain how to create a .Net Core 3 web API connected with a database and deployed to a remote server. The first step is to integrate it with Swagger by using the Swashbuckle package.  
 The full example can be downloaded in this GitHub repository: [NetCore3-Swagger](https://github.com/lucianopereira86/NetCore3-Swagger).
 
 ## Technologies
@@ -58,7 +54,7 @@ After the solution be compiled, create a folder named "Controllers" and add into
 
 ![netcore07](/images/uploads/netcore07.jpg)
 
-Now, let's config the "Startup" class:
+Now, let's configure the "Startup" class:
 
 ![netcore08](/images/uploads/netcore08.jpg)
 
@@ -109,3 +105,7 @@ This will be the result:
 Try the "Get" method and the "OK!" message will return from the API.
 
 ![swagger09](/images/uploads/swagger09.jpg)
+
+## Conclusion
+
+In 10 minutes, you were able to create a .Net Core 3 web API with Swagger. In the next chapter, we will connect it with a remote MySQL database.
