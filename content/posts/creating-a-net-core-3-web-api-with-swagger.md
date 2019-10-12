@@ -4,14 +4,14 @@ date: '2019-10-10T22:07:19-03:00'
 categories:
   - coding
 tags:
-  - .Net Core
+  - Net Core
   - Swagger
   - Visual Studio 2019
 keywords:
   - programming
   - coding
   - development
-  - .Net Core
+  - Net Core
   - Swagger
   - Visual Studio 2019
 autoThumbnailImage: true
