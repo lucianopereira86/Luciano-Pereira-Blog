@@ -22,11 +22,11 @@ In this first part, you will learn how to install, configure and program in Pyth
 The content displayed here can be found in this GitHub repository: [Python HelloWorld](https://github.com/lucianopereira86/Python-HelloWorld).
 ### Instructions
 Acess the [Python Website](https://www.python.org/) and download the latest version.  
-![print01](/images/uploads/python-print01.jpg)
+![print01](/images/uploads/python-print01.jpg)  
 Follow the instalation process until the end with the default configuration.  
-![print02](/images/uploads/python-print02.jpg)
+![print02](/images/uploads/python-print02.jpg)  
 Open Visual Studio Code and install the Python extension.  
-![print03](/images/uploads/python-print03.jpg)
+![print03](/images/uploads/python-print03.jpg)  
 Create a file named "helloworld.py" containing the code:
 ```batch
 print('Hello World')
