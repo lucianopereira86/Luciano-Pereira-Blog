@@ -1,6 +1,6 @@
 ---
 title: Python For Beginners - Part 1 - Hello World
-date: '2019-10-11T23:25:43-03:00'
+date: '2019-10-11T23:05:43-03:00'
 categories:
   - Python
 tags:
