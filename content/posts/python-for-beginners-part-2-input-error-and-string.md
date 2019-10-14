@@ -87,3 +87,10 @@ The result:
 ## Next
 
 You will learn how to make operations with numbers, dates and how to handle errors.
+
+### Video References
+* [Programming with Python | Python for Beginners [6 of 44]](https://www.youtube.com/watch?v=wWwr0tDSqnE&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=6)  
+* [Programming with Python | Python for Beginners [9 of 44]](https://www.youtube.com/watch?v=wWwr0tDSqnE&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=9)  
+* [Programming with Python | Python for Beginners [10 of 44]](https://www.youtube.com/watch?v=zv3cVJHCqXA&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=10)  
+* [Programming with Python | Python for Beginners [11 of 44]](https://www.youtube.com/watch?v=zv3cVJHCqXA&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=11)  
+* [Programming with Python | Python for Beginners [12 of 44]](https://www.youtube.com/watch?v=zv3cVJHCqXA&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=12)
