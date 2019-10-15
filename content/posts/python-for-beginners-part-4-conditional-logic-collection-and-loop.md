@@ -21,7 +21,7 @@ You can read the part 3 [here](https://lucianopereira.netlify.com/posts/python-f
 All the examples from the playlist are available in this GitHub repository: [Python Examples](https://github.com/lucianopereira86/Python-Examples).
 
 ### Objective
-You will learn about the operations with numbers, dates and how to handle errors.
+You will learn how to work with conditional logics, collections and loops.
 A Python file was created to demonstrate each example.
 
 ## Topics
