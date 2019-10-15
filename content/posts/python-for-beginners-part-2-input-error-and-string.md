@@ -27,9 +27,9 @@ A Python file was created to demonstrate each example.
 
 ## Topics
 
-* [input.py](#inputpy)
-* [error.py](#errorpy)
-* [strings.py](#stringspy)
+* [input.py](#input-py)
+* [error.py](#error-py)
+* [strings.py](#strings-py)
 
 ### input.py
 
