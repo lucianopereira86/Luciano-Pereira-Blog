@@ -27,9 +27,9 @@ A Python file was created to demonstrate each example.
 
 ## Topics
 
-* [number.py](#numberpy)
-* [error.py](#errorpy)
-* [strings.py](#stringspy)
+* [number.py](#number-py)
+* [date.py](#date-py)
+* [error_handling.py](#error_handling-py)
 
 ### number.py
 
