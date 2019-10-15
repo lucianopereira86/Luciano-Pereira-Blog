@@ -15,7 +15,6 @@ thumbnailImage: /images/uploads/python_titulo.jpg
 coverImage: /images/uploads/python_titulo.jpg
 ---
 ![python_titulo](/images/uploads/python_titulo.jpg)
-
 Fourth part of articles about the Microsoft's [Python for Beginners](https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) series.
 You can read the part 3 [here](https://lucianopereira.netlify.com/posts/python-for-beginners-part-3-number-date-and-error-handling/).
 All the examples from the playlist are available in this GitHub repository: [Python Examples](https://github.com/lucianopereira86/Python-Examples).
@@ -25,9 +24,9 @@ You will learn about the operations with numbers, dates and how to handle errors
 A Python file was created to demonstrate each example.
 
 ## Topics
-* [conditional.py](#conditionalpy)
-* [collection.py](#collectionpy)
-* [loop.py](#looppy)
+* [conditional.py](#conditional-py)
+* [collection.py](#collection-py)
+* [loop.py](#loop-py)
 
 ### conditional.py
 
