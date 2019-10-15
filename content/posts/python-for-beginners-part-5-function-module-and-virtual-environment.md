@@ -16,7 +16,7 @@ coverImage: /images/uploads/python_titulo.jpg
 ---
 ![python_titulo](/images/uploads/python_titulo.jpg)
 
-Fourth part of articles about the Microsoft's [Python for Beginners](https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) series.
+Fifth part of articles about the Microsoft's [Python for Beginners](https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) series.
 You can read the part 4 [here](https://lucianopereira.netlify.com/posts/python-for-beginners-part-4-conditional-logic-collection-and-loop/).
 All the examples from the playlist are available in this GitHub repository: [Python Examples](https://github.com/lucianopereira86/Python-Examples).
 
