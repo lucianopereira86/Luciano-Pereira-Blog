@@ -27,7 +27,7 @@ You will learn how to make connect with web APIs, manipulate dictionaries, read 
 A Python file was created to demonstrate each example.
 
 ## Topics
-* [api/post.py](#apipostpy)
+* [api/post.py](#api-post-py)
 * [dictionary.py](#dictionary-py)
 * [keys.py](#keys-py)
 * [decorators.py](#decorators-py)
@@ -136,13 +136,3 @@ The result will be:
 ## Conclusion
 We have finally ended this series! 
 Now you have the basics to start working with Python.
-
-### Video References
-* [Programming with Python | Python for Beginners [36 of 44]](https://www.youtube.com/watch?v=BM4S0lNUytA&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=36)
-* [Programming with Python | Python for Beginners [37 of 44]](https://www.youtube.com/watch?v=vkglhX-aoDI&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=37)
-* [Programming with Python | Python for Beginners [38 of 44]](https://www.youtube.com/watch?v=KnAyziNnuI0&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=38)
-* [Programming with Python | Python for Beginners [39 of 44]](https://www.youtube.com/watch?v=1ty7D--lbXU&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=39)
-* [Programming with Python | Python for Beginners [40 of 44]](https://www.youtube.com/watch?v=MW3eV2J65hM&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=40)
-* [Programming with Python | Python for Beginners [41 of 44]](https://www.youtube.com/watch?v=XbHmiKvreLM&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=41)
-* [Programming with Python | Python for Beginners [42 of 44]](https://www.youtube.com/watch?v=_pnZDV53Rek&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=42)
-* [Programming with Python | Python for Beginners [43 of 44]](https://www.youtube.com/watch?v=ljvCnjtnNkU&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=43)
