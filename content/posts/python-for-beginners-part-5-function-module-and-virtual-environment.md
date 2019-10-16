@@ -126,7 +126,7 @@ The result will be:
 ![code31](/images/uploads/python_code31.JPG)
 
 ## Next
-You will learn how to make connect with web APIs, manipulate dictionaries and read environment variables.
+You will learn how to make connect with web APIs, manipulate dictionaries, read environment variables and use decorators.
 
 ### Video References
 * [Programming with Python | Python for Beginners [29 of 44]](https://www.youtube.com/watch?v=nrCAxXfRU28&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=29)
