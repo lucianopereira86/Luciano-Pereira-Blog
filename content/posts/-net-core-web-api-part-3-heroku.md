@@ -2,13 +2,13 @@
 title: .Net Core web API - Part 3 - Heroku
 date: '2019-10-16T21:25:04-03:00'
 categories:
-  - .Net Core 3
+  - Net Core
 tags:
-  - .Net Core 3
+  - Net Core
   - Heroku
   - Docker
 keywords:
-  - .Net Core 3
+  - Net Core
   - Heroku
   - Docker
 autoThumbnailImage: true
