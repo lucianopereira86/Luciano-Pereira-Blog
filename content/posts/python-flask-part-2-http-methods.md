@@ -16,7 +16,7 @@ coverImage: /images/uploads/python_flask_titulo.JPG
 ---
 ![titulo](/images/uploads/python_flask_titulo.JPG)
 
-This is the seconde part of a series about the Flask framework, a common tool used to create web applications with Python.  
+This is the second part of a series about the Flask framework, a common tool used to create web applications with Python.  
 
 ## Objectives
 
