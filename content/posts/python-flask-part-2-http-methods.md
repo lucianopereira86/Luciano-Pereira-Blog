@@ -131,4 +131,4 @@ The result will be:
 
 ## Next
 
-We will connect our web API with a remote database.
+We will connect our web API with a local database.
