@@ -21,7 +21,8 @@ This is the first part of a series about the Flask framework, a common tool used
 ## Objectives
 
 In this series you will learn how to create a web API in Python, make requests and connect it with local and remote databases. 
-The part 1 will focus on the virtual environment to install Flask and how to run a web API. The full example is available here: [Python-Flask](https://github.com/lucianopereira86/Python-Flask).
+The part 1 will focus on the virtual environment to install Flask and how to run a web API.  
+The full example is available here: [Python-Flask](https://github.com/lucianopereira86/Python-Flask).
 
 ## Before Start
 
@@ -70,9 +71,11 @@ Run the following command:
 
 ```sh
 python .\api\api.py
+
 ```
 
-The result will be:
+The result will be:  
+
 ![flask02](/images/uploads/python_flask_flask02.JPG)
 
 If you follow the URL displayed you will see the web page running:
@@ -82,7 +85,6 @@ http://127.0.0.1:5000/
 ```
 
 ![flask03](/images/uploads/python_flask_flask03.JPG)
-
 
 ## Next
 
