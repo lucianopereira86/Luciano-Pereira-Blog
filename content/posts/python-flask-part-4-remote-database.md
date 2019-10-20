@@ -100,5 +100,5 @@ And... it is gone!
 ## Conclusion
 
 In this series, you have seen how a web API behaves in a Python environment with Flask framework.  
-During our tests, Runtime (_api.py_) and persistent (_db_api.py_) data were used.  
+During our tests, runtime and persistent data were used.  
 The local and remote database had similar functions, equal results and were easy to manipulate.
